@@ -1,4 +1,4 @@
-<h1 align="center">PyPhisher</h1>
+<h1 align="center">HZPhisher</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
