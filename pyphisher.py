@@ -1,12 +1,11 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : PyPhisher
-# Author     : KasRoudra
+# ToolName   : HZPhisher
+# Author     : Hilyzx
 # Version    : 2.0
 # License    : GPL V3
-# Copyright  : KasRoudra (2021-2022)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
-# Description: PyPhisher is a phishing tool in python
+# Copyright  : Hilyzx (2021-2024)
+# Github     : https://github.com/hilyzx
+# Description: HZPhisher is a phishing tool in python
 # Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
 # 1st Commit : 08/08/2021
 # Language   : Python
