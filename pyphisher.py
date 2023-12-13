@@ -7,10 +7,10 @@
 # Github     : https://github.com/hilyzx
 # Description: HZPhisher is a phishing tool in python
 # Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
-# 1st Commit : 08/08/2021
+# 1st Commit 13/12/2023
 # Language   : Python
 # Portable file/script
-# If you copy open source code, consider giving credit
+# If you copy open source code, consider giving credit          
 # Credits    : Zphisher, MaskPhish, AdvPhishing
 # Env        : #!/usr/bin/env python
 
