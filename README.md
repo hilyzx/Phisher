@@ -6,39 +6,35 @@
 </p>
 
 
-### [√] Description :
+### Descripción :
 
-***Ultimate phishing tool in python. Includes popular websites like facebook, twitter, instagram, github, reddit, gmail and many others.***
-
-### [*]Announcent
-
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+***La herramienta de phishing en Python. Incluye sitios web populares como facebook, twitter, instagram, github, reddit, gmail y otros.***
 
 
-### [+] Installation
+### [+] Instalación 
 
-##### Install dependencies (git, python, php ssh)
+##### Instala dependencias (git, python, php ssh)
 
- - For Debian (Ubuntu, Kali-Linux, Parrot)
+ - Para Debian (Ubuntu, Kali-Linux, Parrot)
     - ```sudo apt install git python3 php openssh-client -y```
- - For Arch (Manjaro)
+ - Para Arch (Manjaro)
     - ```sudo pacman -S git python3 php openssh --noconfirm```
- - For Redhat(Fedora)
+ - Para Redhat(Fedora)
     - ```sudo dnf install git python3 php openssh -y```
- - For Termux
+ - Para Termux
     - ```pkg install git python3 php openssh -y```
 
-##### Clone this repository
+#####Clonear este repositorio
 
  - ```git clone https://github.com/KasRoudra/PyPhisher```
 
-##### Enter the directory
- - ```cd PyPhisher```
+##### Entra en el directorio
+ - ```cd HZXphisher```
 
-##### Install all modules
+##### Instala todos los módulos 
  - ```pip3 install -r files/requirements.txt```
 
-##### Run the tool
+##### Corre el programa
  - ```python3 pyphisher.py```
 
 #### Or, directly run
