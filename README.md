@@ -1,4 +1,4 @@
-<h1 align="center">HZPhisher</h1>
+<h1 align="center">HZXPhisher</h1>
 
 <p align="center">
   
